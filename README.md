@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuhari188&label=Profile%20views&color=0e75b6&style=flat" alt="madhuhari188" /> </p>
 
+<p align="left"> <a href="https://wakatime.com/@018c43f8-a031-44d5-844e-1dc894a9e1c4"><img src="https://wakatime.com/badge/user/018c43f8-a031-44d5-844e-1dc894a9e1c4.svg" alt="Total time coded since Dec 7 2023" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhuhari188" alt="madhuhari188" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/madhuhari188" target="blank"><img src="https://img.shields.io/twitter/follow/madhuhari188?logo=twitter&style=for-the-badge" alt="madhuhari188" /></a> </p>
